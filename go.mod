@@ -36,6 +36,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/spf13/cobra v0.0.5
 	github.com/stretchr/testify v1.4.0
+	github.com/tidwall/pretty v1.0.1
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
 	k8s.io/apimachinery v0.0.0-20191004115701-31ade1b30762
